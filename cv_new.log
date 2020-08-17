@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.4)  2 MAR 2020 10:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.4)  13 JUL 2020 06:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -179,8 +179,8 @@ Missing character: There is no ¸ in font cmti10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¦ in font cmr10!
 
-./cv_new.tex:122: Extra }, or forgotten \endgroup.
-l.122 }
+./cv_new.tex:124: Extra }, or forgotten \endgroup.
+l.124 }
        
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -201,26 +201,26 @@ Missing character: There is no ¸ in font cmti10!
 Missing character: There is no Ã in font cmti10!
 Missing character: There is no ¸ in font cmti10!
 [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 229--232
+Underfull \hbox (badness 10000) in paragraph at lines 231--234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--237
+Underfull \hbox (badness 10000) in paragraph at lines 236--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--243
+Underfull \hbox (badness 10000) in paragraph at lines 241--245
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 263.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 265.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 263.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 263.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 263.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 263.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 265.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 265.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 265.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 265.
  ) 
 Here is how much of TeX's memory you used:
  4293 strings out of 492985
@@ -229,9 +229,9 @@ Here is how much of TeX's memory you used:
  7886 multiletter control sequences out of 15000+600000
  4294 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,4n,21p,334b,405s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,4n,21p,334b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_new.pdf (4 pages, 75120 bytes).
+Output written on cv_new.pdf (4 pages, 75225 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
