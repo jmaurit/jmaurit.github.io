@@ -490,7 +490,7 @@ class quiz{
 
   createButton(){
     this.button = document.createElement('button');
-    this.button.innerHTML="Vis svar";
+    this.button.innerHTML="Check answers";
     this.button.addEventListener('click', e=>{this.showResults();});
     this.quizContainer.appendChild(this.button);
   }
@@ -597,5 +597,3 @@ function findLinEquil(dyi, syi, ds, ss){
   let yQ = dyi + ds*xQ;
   return({"xQ":xQ, "yQ":yQ});
   }
-
-  
