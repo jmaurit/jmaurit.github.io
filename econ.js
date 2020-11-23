@@ -495,7 +495,6 @@ class quiz{
     this.quizContainer.appendChild(this.button);
   }
 
-
   showQuestions(){
   	// we'll need a place to store the output and the answer choices
     let answers;
